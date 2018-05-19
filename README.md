@@ -62,7 +62,7 @@ APP_DOMAIN=commits-to.js:8080
 DATABASE_URL=postgres://iwill:iwill@localhost:5432/commitsto
 
 # Optional
-MAILGUN_KEY=
+MAILGUN_KEY='' # this is important
 MAILGUN_DOMAIN=
 MAILGUN_TO=
 MAILGUN_FROM=
